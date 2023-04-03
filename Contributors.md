@@ -39,6 +39,7 @@ Abhishek Kumar Pathak
 - [AkashShukl] (https://github.com/AkashShukl)
 - [bdvinod788] (https://github.com/bdvinod788)
 - [ssaporito] (https://github.com/ssaporito)
+- [jaronjock] (https://github.com/jaronjock)
 - [SinanTokmak] (https://github.com/SinanTokmak)
 - [oliveren] (https://github.com/renjialan)
 - [Tanner Stephenson] (https://github.com/TannerStephenson)
